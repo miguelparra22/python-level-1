@@ -60,3 +60,7 @@ x,y,z = frutas
 print(x)
 print(y)
 print(z)
+
+p = ['Mx']
+p.append('h')
+print(p)

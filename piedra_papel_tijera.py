@@ -39,7 +39,7 @@ while True:
             user_wins += 1
         else:
             print('Papel gana a piedra')
-            print('computer gano!')
+            print('Computer gano!')
             computer_wins += 1
     elif user_option == 'papel':
         if computer_option == 'piedra':

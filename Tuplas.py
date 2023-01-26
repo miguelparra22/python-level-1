@@ -18,3 +18,6 @@ print(type(my_list))
 
 my_tuple = tuple(my_list)
 print(type(my_tuple))
+
+
+print((8/2) + 4*8)
